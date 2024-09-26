@@ -1,8 +1,6 @@
 # About Me
 Greetings.<br><br>I am a mechanical engineer who specialises in Control Systems, Machine Learning and Optimisation.<br><br>I have previously worked as a Researcher in Academia, but I am currently looking for a new challenge.<br><br>I have a keen interest in the energy industries, especially wind energy and home energy (HVAC, smart appliances, demand  & demand-side response, etc.).<br><br>I am currently working on a variety of projects. <br>Most of these involve control system design and implementation, data collection, data manipulation and analysis, machine learning algorithms, and optimisation problems.<br><br>
 
-Feel free to contact me via email: miguel.santos.loureiro@gmail.com
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-santos-loureiro) 
 
