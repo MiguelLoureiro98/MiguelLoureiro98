@@ -9,7 +9,7 @@ Greetings.<br><br>I am a mechanical engineer who specialises in Control Systems,
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=MiguelLoureiro98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MiguelLoureiro98&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLoureiro98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLoureiro98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=10)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MiguelLoureiro98&limit=5&theme=dark&combine_all_yearly_contributions=true)
